@@ -1,12 +1,8 @@
-"use client";
-
 import QuestionForm from "@/components/QuestionForm";
-import { useAuthStore } from "@/store/Auth";
-import slugify from "@/utils/slugify";
 import { Models } from "appwrite";
 import React from "react";
 
-const AskQuestion = ({ question }: { question: Models.Document }) => {
+const AskQuestion = ({ question }: any) => {
   return (
     <div className="block pb-20 pt-32">
       <div className="container mx-auto px-4">
