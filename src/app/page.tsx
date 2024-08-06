@@ -14,11 +14,11 @@ export default function Home() {
         <HeroSection />
         <div className="grid md:grid-cols-[70%_1fr] gap-6">
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold">All Questions</h2>
+            <h2 className="text-2xl font-bold">Top Questions</h2>
             <LatestQuestions />
           </div>
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold">All Questions</h2>
+            <h2 className="text-2xl font-bold">Top Contributors</h2>
             <TopContributers />
           </div>
         </div>
