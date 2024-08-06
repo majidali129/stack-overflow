@@ -128,7 +128,7 @@ export default function Register() {
         <LabelInputContainer className="mb-4">
           <Label htmlFor="password">Password</Label>
           <Input
-            className="text-black"
+            className=""
             id="password"
             name="password"
             placeholder="••••••••"
