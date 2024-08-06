@@ -85,7 +85,7 @@ export const FloatingNav = ({
           <button
             onClick={() => {
               logout();
-              router.push("/");
+              setTimeout(() => router.push("/"), 500);
             }}
             className="relative rounded-full border border-neutral-200 px-4 py-2 text-sm font-medium text-black dark:border-white/[0.2] dark:text-white"
           >
