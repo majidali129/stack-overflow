@@ -97,7 +97,6 @@ export default function Register() {
           <LabelInputContainer>
             <Label htmlFor="firstname">First name</Label>
             <Input
-              className="text-black"
               id="firstname"
               name="firstname"
               placeholder="Tyler"
@@ -107,7 +106,6 @@ export default function Register() {
           <LabelInputContainer>
             <Label htmlFor="lastname">Last name</Label>
             <Input
-              className="text-black"
               id="lastname"
               name="lastname"
               placeholder="Durden"
@@ -118,7 +116,6 @@ export default function Register() {
         <LabelInputContainer className="mb-4">
           <Label htmlFor="email">Email Address</Label>
           <Input
-            className="text-black"
             id="email"
             name="email"
             placeholder="projectmayhem@fc.com"

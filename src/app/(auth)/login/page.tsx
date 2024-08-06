@@ -82,7 +82,6 @@ export default function Login() {
         <LabelInputContainer className="mb-4">
           <Label htmlFor="email">Email Address</Label>
           <Input
-            className="text-black"
             id="email"
             name="email"
             placeholder="projectmayhem@fc.com"
