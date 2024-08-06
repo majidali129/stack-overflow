@@ -28,7 +28,7 @@ export default function Home() {
             Join Now
           </div>
           <p className="md:max-w-xl text-[.9rem] leading-6 mx-auto !font-normal text-white">
-            &quate;Sign up&quate; to become a part of our dynamic community.
+            &quot; Sign up &quot; to become a part of our dynamic community.
             Gain access to a vast pool of knowledge, connect with experts, and
             share your insights. Whether you&apos;re here to ask questions or
             provide answers, joining us will enhance your learning experience

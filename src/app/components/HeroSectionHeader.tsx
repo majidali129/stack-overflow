@@ -58,7 +58,7 @@ const HeroSectionHeader = () => {
             <h1 className="pointer-events-none z-10 whitespace-pre-wrap bg-gradient-to-b from-[#ffd319] via-[#ff2975] to-[#8c1eff] bg-clip-text text-center text-7xl font-bold leading-none tracking-tighter text-transparent">
               RiverFlow
             </h1>
-            <p className="text-center text-xl font-bold leading-none tracking-tighter">
+            <p className="text-center text-lg  tracking-wide">
               Ask questions, share knowledge, and collaborate with developers
               worldwide. Join our community and enhance your coding skills!
             </p>
